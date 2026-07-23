@@ -119,7 +119,7 @@ export function downloadResumePDF() {
     <div class="name">${personalInfo.name}</div>
     <div class="title">${personalInfo.title}</div>
     <div class="contact-info">
-      ${personalInfo.location} | ${personalInfo.phone} | ${personalInfo.email} | linkedin.com/in/gautamkumar | github.com/gautamkumar
+      ${personalInfo.location} | ${personalInfo.phone} | ${personalInfo.email} | linkedin.com/in/gautam-kumar-752341307 | github.com/GautamKumar200510
     </div>
   </div>
 

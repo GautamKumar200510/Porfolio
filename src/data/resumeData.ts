@@ -19,8 +19,8 @@ export const personalInfo: PersonalInfo = {
   phone: "+91 9931211603",
   location: "Pune, Maharashtra, India",
   permanentAddress: "Pune, Maharashtra, India",
-  linkedIn: "https://linkedin.com/in/gautamkumar",
-  github: "https://github.com/gautamkumar",
+  linkedIn: "https://www.linkedin.com/in/gautam-kumar-752341307",
+  github: "https://github.com/GautamKumar200510",
   leetcode: "https://leetcode.com/u/txODJD3DWj/",
   dob: "2005",
   languages: ["English", "Hindi"],
@@ -262,7 +262,7 @@ PROFILE CONTENT:
 - Degree: B.Tech – CSE (AI & Analytics) @ MIT School of Computing, MIT-ADT University, Pune | CGPA: 8.32 / 10.0
 - Location: Pune, Maharashtra, India
 - Email: gautamkr.71019@gmail.com | Phone: +91 9931211603
-- LinkedIn: linkedin.com/in/gautamkumar | GitHub: github.com/gautamkumar
+- LinkedIn: linkedin.com/in/gautam-kumar-752341307 | GitHub: github.com/GautamKumar200510
 - Internship: Software Developer Intern @ Innobyte [June 2025 – November 2025] - Java features across 3+ sprint cycles, reduced bugs ~30%, 100% commit traceability via Git/GitHub.
 - Projects:
   1) No-Code Visual ML Platform (React.js, Python, Flask, AI, Data Analytics - cut setup ~70%, <2s Flask response).

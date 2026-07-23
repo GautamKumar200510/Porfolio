@@ -90,7 +90,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
                 <span>{personalInfo.email}</span>
               </div>
               <div className="text-[11px] text-slate-400">
-                linkedin.com/in/gautamkumar | github.com/gautamkumar | leetcode.com/u/txODJD3DWj
+                linkedin.com/in/gautam-kumar-752341307 | github.com/GautamKumar200510 | leetcode.com/u/txODJD3DWj
               </div>
             </div>
           </div>
